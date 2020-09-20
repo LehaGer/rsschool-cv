@@ -4,3 +4,5 @@
 4. Skills: Ñ++, PHP, Git
 5. Dithering programm
 6. Experience: course of C++ Lab in EpolSoft, PHP developing in 1 year
+7. Education higher education: Information Technology Engineer, course of C++ Lab in EpolSoft
+8. English level: A2
