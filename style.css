@@ -1,0 +1,11 @@
+.elemOfList {
+    margin: 20px;
+    text-align: left;
+}
+
+* {
+    text-align: center;
+    margin: auto;
+    max-width: 1024px;
+    margin-top: 16px;
+}
